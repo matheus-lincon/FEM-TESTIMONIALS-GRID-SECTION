@@ -1,0 +1,133 @@
+/* =========================
+   BACKGROUND UTILITIES
+========================= */
+
+.bg-primary-50 {
+  background: var(--primary-50);
+}
+
+.bg-primary-300 {
+  background: var(--primary-300);
+}
+
+.bg-primary-500 {
+  background: var(--primary-500);
+}
+
+.bg-white {
+  background: var(--white);
+}
+
+.bg-black {
+  background: var(--black);
+}
+
+.bg-neutral-100 {
+  background: var(--neutral-100);
+}
+
+.bg-neutral-200 {
+  background: var(--neutral-200);
+}
+
+.bg-neutral-400 {
+  background: var(--neutral-400);
+}
+
+.bg-neutral-500 {
+  background: var(--neutral-500);
+}
+
+.bg-dark-blue {
+  background: var(--dark-blue);
+}
+
+
+/* =========================
+   TEXT COLOR UTILITIES
+========================= */
+
+.text-primary-50 {
+  color: var(--primary-50);
+}
+
+.text-primary-300 {
+  color: var(--primary-300);
+}
+
+.text-primary-500 {
+  color: var(--primary-500);
+}
+
+.text-white {
+  color: var(--white);
+}
+
+.text-black {
+  color: var(--black);
+}
+
+.text-neutral-100 {
+  color: var(--neutral-100);
+}
+
+.text-neutral-200 {
+  color: var(--neutral-200);
+}
+
+.text-neutral-400 {
+  color: var(--neutral-400);
+}
+
+.text-neutral-500 {
+  color: var(--neutral-500);
+}
+
+.text-dark-blue {
+  color: var(--dark-blue);
+}
+
+/* =========================
+   FONT FAMILY
+========================= */
+
+.ff-primary {
+  font-family: var(--ff);
+}
+
+
+/* =========================
+   FONT SIZE
+========================= */
+
+.fs-xsm {
+  font-size: var(--fs-xsm);
+}
+
+/* 11px */
+.fs-sm {
+  font-size: var(--fs-sm);
+}
+
+/* 13px */
+.fs-m {
+  font-size: var(--fs-m);
+}
+
+/* 20px */
+
+
+/* =========================
+   FONT WEIGHT
+========================= */
+
+.fw-m {
+  font-weight: var(--fw-m);
+}
+
+/* 500 */
+.fw-sb {
+  font-weight: var(--fw-sb);
+}
+
+/* 600 */
