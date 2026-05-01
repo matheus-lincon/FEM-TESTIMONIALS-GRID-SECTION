@@ -63,7 +63,7 @@ img {
 }
 
 body {
-  background-color: var(--neutral-100);
+  background-color: var(--white);
   display: grid;
   place-items: center;
   min-height: 100dvh;
