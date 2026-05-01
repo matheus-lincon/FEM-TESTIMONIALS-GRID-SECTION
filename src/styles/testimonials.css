@@ -52,6 +52,9 @@
 
   .testimonial:nth-child(1) {
     grid-area: t1;
+    background-image: url("../assets/images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: top right 15%;
   }
 
   .testimonial:nth-child(2) {
